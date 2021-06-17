@@ -1,0 +1,2 @@
+plugin: sapphire.crowdstrike.get_hosts
+duplicates: true
