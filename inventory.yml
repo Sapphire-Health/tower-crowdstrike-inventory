@@ -1,1 +1,5 @@
 plugin: sapphire.crowdstrike.get_hosts
+group_by:
+  - os
+  - site_name
+  - tags
